@@ -22,7 +22,7 @@ $ yarn add --dev @erictaylor/prettier-config
 _alternatively_
 
 ```js
-# .prettierrc.js
+// .prettierrc.js
 module.exports = {
   ...require('@erictaylor/prettier-config');
 };
