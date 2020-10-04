@@ -4,5 +4,8 @@
   "main": "index.json",
   "repository": "git@github.com:erictaylor/prettier-config.git",
   "author": "Eric Taylor <eric@daxos.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
